@@ -1,0 +1,54 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "text": "Thanks to the scholarship, I was able to pursue my dreams without financial worry.",
+      "photo": "student1.jpg",
+      "video": "",
+      "caption": "Maria Santos, Computer Science Graduate",
+      "created_at": "2023-11-22T13:00:00Z"
+    }
+  ],
+  "news": [],
+  "events": [],
+  "photos": [],
+  "dates": [],
+  "page_content": {
+    "mission": {
+      "title": "Mission & Vision",
+      "content": "Ang Katambayung Foundation provides access to postsecondary education for students who demonstrate financial need, academic merit, and a commitment to community service. Higher education as a catalyst for positive change, ensuring equity in educational opportunities regardless of economic circumstance."
+    },
+    "about": {
+      "title": "About Us",
+      "content": "Ang Katambayayung Foundation is committed to empowering communities through various programs and initiatives."
+    },
+    "history": {
+      "title": "History",
+      "content": "Founded in [year], Ang Katambayung Foundation has been dedicated to supporting education and community development for over [X] years."
+    },
+    "student-stories": {
+      "title": "Student Stories",
+      "content": "Read inspiring stories from students who have benefited from our programs and scholarships."
+    },
+    "board": {
+      "title": "Board of Directors",
+      "content": "Our volunteer board provides leadership and governance for the foundation."
+    },
+    "staff": {
+      "title": "Staff",
+      "content": "Meet our dedicated team working to make a difference in education and community support."
+    },
+    "policy-fellows": {
+      "title": "Policy Fellows",
+      "content": "Our policy fellowship program involves students in advocacy, designing a policy agenda, working with lawmakers, research, and equity work."
+    },
+    "partners": {
+      "title": "Partners",
+      "content": "We collaborate with various organizations and institutions to expand our impact."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "Get in touch with us for more information about our programs and how to get involved."
+    }
+  }
+}
